@@ -2,11 +2,11 @@
 
 Earn stars from now on 😅 
 
-- ⚒️ Java, Python, Node.js, Angular, ios, Android
-- 🌱 I’m currently learning Node.js, Java, Golang
+- ⚒️ Java, Python, C#
+- 🌱 I’m currently learning PHP, Golang
 - 💪 Newbie for Web security, Reverse engineering
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: 不想学习
+- ⚡ 厚积薄发
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Big4plus&theme=dark&layout=compact">
 
